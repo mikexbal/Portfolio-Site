@@ -16,6 +16,45 @@
           "Participated in daily stand-up meetings, where I acquired hands-on exposure to the Kanban methodology and agile project management, ultimately improving my communication skills."
         ]
       }
+    ],
+
+    "projects": [
+      {
+        "name": "Travel Polynesia",
+        "description": "Travel Polynesian is a responsive landing page that showcases six Polynesian islands. The site fetches data from a local JSON file to dynamically render island details, making it easy to update and expand while providing a smooth user experience.",
+        "github": "https://github.com/mikexbal/Travel-Polynesia",
+        "link": "https://travelpolynesia.netlify.app/",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "JSON"
+        ]
+      },
+      {
+        "name": "Travel Polynesia",
+        "description": "Travel Polynesian is a responsive landing page that showcases six Polynesian islands. The site fetches data from a local JSON file to dynamically render island details, making it easy to update and expand while providing a smooth user experience.",
+        "github": "https://github.com/mikexbal/Travel-Polynesia",
+        "link": "https://travelpolynesia.netlify.app/",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "JSON"
+        ]
+      }
+      
+    ],
+
+    "techstack": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Python",
+      "C#",
+      "Java"
     ]
+
   }
   
