@@ -1,0 +1,22 @@
+#navbarContainer {
+    justify-self: center;
+    width: 400px;
+    height: 80px;
+    border-radius: 15px;
+}
+
+#navbarList {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-left: 0;
+    padding-top: 25px;
+    list-style: none;
+}
+
+#navbarLinks {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
