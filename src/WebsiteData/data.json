@@ -1,0 +1,21 @@
+{
+    "about": {
+      "name": "Michael Balogun.",
+      "jobTitle": "Aspiring Full Stack Developer",
+      "bio": "Undergraduate student at Temple University studying Information Science and Technology, passionate about bridging the gap between people and technology through, user-centered solutions."
+    },
+
+    "experience": [
+      {
+        "company": "Sightly",
+        "role": "Software Engineering Shadow Intern",
+        "date": "Jul 2023 - Aug 2023",
+        "responsibilities": [
+          "Collaborated with software engineers to gain exposure to unit testing with the PyTest framework, contributing to the creation and deployment of comprehensive unit tests, ensuring reliability and functionality.",
+          "Gained practical experience with Git and CLI tools to enhance productivity and workflow efficiency, while also learning the importance of version control and collaboration.",
+          "Participated in daily stand-up meetings, where I acquired hands-on exposure to the Kanban methodology and agile project management, ultimately improving my communication skills."
+        ]
+      }
+    ]
+  }
+  
