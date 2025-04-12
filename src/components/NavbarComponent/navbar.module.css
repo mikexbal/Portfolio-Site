@@ -1,3 +1,6 @@
+#navbarSection {
+    background-color: #F6F5EF;
+}
 #navbarContainer {
     justify-self: center;
     width: 400px;
@@ -10,7 +13,7 @@
     flex-direction: row;
     justify-content: space-around;
     padding-left: 0;
-    padding-top: 25px;
+    padding-top: 35px;
     list-style: none;
 }
 
