@@ -1,0 +1,54 @@
+
+#introduction h1,
+#introduction h3,
+#introduction p {
+    margin: 20px;
+}
+
+#introduction {
+    text-align: center;
+    padding-top: 125px;
+}
+
+#introduction h1 {
+    color: #1C2445;
+    font-size: 60px;
+}
+
+
+#introduction h3 {
+    color: #3269FF;
+    font-size: 50px;
+}
+
+#introduction p {
+    color: #81807C;
+    width: 65%;
+    padding-left: 225px;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.buttonGroup {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+  
+
+#aboutButton {
+    background-color:  #81807c78;
+    color: white;
+    height: 45px;
+    margin-right: 15px;
+    border-radius: 15px;
+    border: none;
+}
+
+
+#introduction button:hover {
+    background-color:  #81807c;
+}
+
+
+
