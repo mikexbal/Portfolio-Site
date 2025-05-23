@@ -4,7 +4,7 @@
 }
 #experience {
     margin-top: 150px;
-    margin-bottom: 200px;
+    margin-bottom: 20px;
 }
 
 #experienceCard {
@@ -13,7 +13,7 @@
     padding: 20px;
     justify-self: center;
     border-radius: 15px;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 #experienceHeader {
